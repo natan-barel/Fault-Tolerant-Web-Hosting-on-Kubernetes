@@ -1,7 +1,9 @@
 
 # Fault-Tolerant Web Hosting on Kubernetes
 
-This project covers the step by step guide to Containerize and Deploy Web Application using Docker, Kubernetes and Helm Charts.
+Fault-tolerant web hosting is the ability of the system to continue hosting the web services when one or more of the system components leads to failure.
+
+This project covers the step by step guide to Containerize and Deploy fault-tolerant Web Application using Docker and Kubernetes.
 
 ## DevOps Tools / Service Used
 + Docker
