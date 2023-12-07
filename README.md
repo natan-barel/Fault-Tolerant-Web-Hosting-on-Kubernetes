@@ -6,24 +6,16 @@ This project covers the step by step guide to Containerize and Deploy Web Applic
 ## DevOps Tools / Service Used
 + Docker
 + Kubernetes
-+ Helm
 + Kind
 
 ## Prerequisites
-To deploy the Web Application on Docker, Kubernetes and Helm, we have the following prerequisites:
+To deploy the Web Application on Docker, Kubernetes and Kind, we have the following prerequisites:
 
 + Install and configure [Docker](https://docs.docker.com/desktop/)
 
 + Install and configure [Kubernetes](https://kubernetes.io/docs/setup/)
 
-+ Install and configure [Helm](https://helm.sh/docs/intro/quickstart/)
-
 + Install and configure [Kind](https://kind.sigs.k8s.io/docs/user/quick-start/)
-
-
-
-
-
 
 ## How to work
 
