@@ -28,6 +28,7 @@ const ResumeApi = [
     title: "NGSoft",
     year: "(2019 - 2021)",
     list: ['Build large-scale, high-volume complex web applications from scratch using framework such as Angular (7-10)',
+      'Development of Secure REST API with NodeJs , Typescript and MongoDB.',
       'Design, develop, test and deploy high traffic reusable features and components, with an emphasis on scalability and performance that drove complex web applications.',
       'Translate product & business requirements into working solutions, working closely with company leadership, product managers, UX designers to architect, prioritize and deliver great software experience.',
       'Maintenance of existing code and projects, debugging, integrating and tackling hard technical problems some at the architecture level, some at the code level and come up with solutions, according to customer needs.']
